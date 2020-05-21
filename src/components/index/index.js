@@ -10,7 +10,7 @@ export class Index extends React.Component {
         console.log("propes Value:", props);
     }
     render() {
-      console.log("propes Value:", this.props);
+      console.log("propes Value :", this.props);
       return (
         
         <div>
